@@ -1,0 +1,4 @@
+This is additional content added on branch 'a'.
+
+This file demonstrates adding new changes to a feature branch
+that will be merged into main via a pull request.
