@@ -1,0 +1,9 @@
+This is a sample text file created for testing GitHub operations.
+
+It contains some sample content to demonstrate:
+- Creating a file locally
+- Pushing to a new GitHub repository
+- Working with branches
+- Merging branches via pull request
+
+Created on: 2025-10-19
